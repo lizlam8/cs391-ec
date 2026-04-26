@@ -5,7 +5,7 @@ import { Menu } from "@base-ui/react/menu";
 
 
 const Logo = styled.h1`
-  margin-top: 1%;
+  margin-top: 2.5%;
   font-size: calc(2px + 2.0vw);
     
 `;
